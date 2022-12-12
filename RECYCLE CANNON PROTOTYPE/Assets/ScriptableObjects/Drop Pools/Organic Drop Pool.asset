@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7fc14a3e7750634fbca504e49eaf2e6, type: 3}
+  m_Name: Organic Drop Pool
+  m_EditorClassIdentifier: 
+  _drops:
+  - Percentage: 50
+    DroppedObject: {fileID: 7077163406151259763, guid: 3907e1fd61d4f294cb4580b829bbfb63,
+      type: 3}
+  - Percentage: 50
+    DroppedObject: {fileID: 87546089715591221, guid: 9960216f1492c1549979d6b6134103bc,
+      type: 3}

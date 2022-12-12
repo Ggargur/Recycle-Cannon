@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a310f45343e0ec4784fd9f037d00429, type: 3}
+  m_Name: Default Enemy Pool
+  m_EditorClassIdentifier: 
+  PlasticEnemies:
+  - {fileID: 5432610574363773345, guid: b98f5b430c5e90946bb190fdd64245e1, type: 3}
+  OrganicEnemies:
+  - {fileID: 2265475888443628993, guid: effac48718245aa42b0a5617fe23af04, type: 3}
+  MetallicEnemies:
+  - {fileID: 7949599328845382958, guid: a062a5f1f1fc8a042a2495720528b0a5, type: 3}
